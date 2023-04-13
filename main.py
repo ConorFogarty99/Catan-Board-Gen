@@ -49,10 +49,6 @@ def board_layout():
                 board[i][j].append(number)
                 numbers_list.remove(number)
 
-    for row in board:
-        for tile in row:
-            check_hexagonal_rules(board, row, tile)
-
     board_texted = translate_board(board)
     print(board_texted)
 
