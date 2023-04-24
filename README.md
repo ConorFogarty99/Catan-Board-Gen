@@ -1,6 +1,6 @@
 ![ScreenShot](https://upload.wikimedia.org/wikipedia/it/4/45/Coloni_di_catan_Logo.png)
 # Catan Board Generator
-This script creates an optimal board layout for the default version of the game Settelers of Catan. 
+This script randomly creates an optimal board layout for the default version of the game Settelers of Catan. 
 It follows a few simple rules such that no area on the board will be overpowered. This generator doesn't take into account ports.
 
 ## Rules 
