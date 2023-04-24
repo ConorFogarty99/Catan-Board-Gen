@@ -14,3 +14,7 @@ Using the pygame module in python this also draws the board granting a visual ai
 
 ## Generated Board
 ![Image](sample_board.png)
+
+### Todo
+* Refactor
+* Change adjacency function
